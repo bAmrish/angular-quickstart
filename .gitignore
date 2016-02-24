@@ -31,3 +31,8 @@ node_modules
 
 # Optional REPL history
 .node_repl_history
+
+# JS files since this is a typescript applciation
+*.js
+*.js.map
+typings/
